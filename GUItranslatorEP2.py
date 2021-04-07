@@ -36,19 +36,5 @@ L.pack(pady=20)
 v_result = StringVar()
 R1 = ttk.Label(GUI,textvariable=v_result,font=FONT)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 GUI.mainloop()
 
